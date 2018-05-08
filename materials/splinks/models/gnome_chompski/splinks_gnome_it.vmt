@@ -1,0 +1,25 @@
+patch
+{
+ include "materials/models/survivors/survivors_it_shared.vmt" 
+ insert 
+{
+	"$basetexture" "splinks\models\Gnome_Chompski\Splinks_Gnome"
+	"$bumpmap" "splinks\models\Gnome_Chompski\Splinks_Gnome_nrm"
+
+
+$halflambert 1
+$diffuseexp 1.5
+
+$phong 1
+$phongexponent 150
+$phongboost 1
+$phongfresnelranges "[.7 15 20]"
+
+
+	"$rimlight" "1" 
+	"$rimlightexponent" "0.5" 
+	"$rimlightboost" "1.5" 
+	"$rimmask" 1
+
+
+}

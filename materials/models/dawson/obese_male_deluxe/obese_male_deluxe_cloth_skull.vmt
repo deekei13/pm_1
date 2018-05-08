@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\dawson\obese_male_deluxe\obese_male_deluxe_cloth_skull"
+	"$surfaceprop"	"default"
+	"$halflambert"	1
+	"$model"	1
+
+"$blendtintbybasealpha" "1" 
+	"$blendtintcoloroverbase" "0"
+Proxies{
+	PlayerColor{
+		resultVar	$color2
+		default 0.75 0.75 0.75
+		}
+	}

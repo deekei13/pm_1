@@ -1,0 +1,18 @@
+EyeRefract
+{
+$Iris "splinks\models\Gnome_Chompski\gnome_eyeball" 
+$AmbientOcclTexture "splinks\models\Gnome_Chompski\eyes\eye_ao" 
+$Envmap "splinks\models\Gnome_Chompski\eyes\eye_cubemap" 
+$CorneaTexture "splinks\models\Gnome_Chompski\eyes\eye_cornea" 
+$EyeballRadius "0.7" 
+$AmbientOcclColor "[.4 .3 .27]" 
+$Dilation ".7" 
+$ParallaxStrength "0.2" 
+$CorneaBumpStrength ".5" 
+$halflambert 1
+$nodecal 1
+$ambientocclusion 1
+
+$RaytraceSphere 0 
+$SphereTexkillCombo 0 
+}

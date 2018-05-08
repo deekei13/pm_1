@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$basetexture" "models/Barney_mif/eyeball_l"
+	"$iris" "models/Barney_mif/pupil_l"
+	"$halflambert" 1
+	"$nodecal" "1"
+}

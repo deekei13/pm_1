@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Barney_mif/Barney_mif"
+	"$halflambert" 1
+ 
+	"$nodecal" "1"
+}

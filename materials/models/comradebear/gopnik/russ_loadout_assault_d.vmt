@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\comradebear\gopnik/Russ_Loadout_Assault_D"
+                "$bumpmap"    "models\comradebear\gopnik/Russ_LoadouT_assault_n"
+	"$halflambert" "1"
+	"$nocull" "1" 
+
+	"$phong" "1"
+	"$phongexponent" 4
+	"$phongboost" "0.05"
+	"$phongfresnelranges"	"[ .3 1.2 8]"
+//	"$PhongAlbedoTint" "1"
+
+	"$blendtintbybasealpha" "1" // alpha channel of $basetexture: color mask.
+ 	"$blendtintcoloroverbase" "0" // blend mode. anything =/= 0 is ugly!
+
+}

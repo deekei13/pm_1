@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/comradebear\ruspolice/rus_police_uniform"
+	"$bumpmap" "models/comradebear\ruspolice/rus_police_uniform_nm"
+}
